@@ -4,7 +4,7 @@
   "description": "An example of how to structure medium-to-large sized Express apps",
   "main": "index.js",
   "engines": {
-    "node": ">=12"
+    "node": "12.18.2"
   },
   "dependencies": {
     "express": "^4.17.1",
