@@ -1,4 +1,3 @@
-import path from 'path'
 import logger from 'loglevel'
 import {startServer} from './start'
 
