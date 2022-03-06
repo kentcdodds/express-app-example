@@ -8,7 +8,7 @@ function getMathRoutes() {
 }
 
 async function add(req, res) {
-  const sum = Number(req.query.a) + Number(req.query.c)
+  const sum = Number(req.query.a) + Number(req.query.b)
   res.send(sum.toString())
 }
 
